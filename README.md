@@ -1,6 +1,6 @@
 # Ticketer
 
-Gruppeprosjekt i TDT4140
+Gruppeprosjekt i Produksjonsutvikling TDT4140, vår 2022. Vi har utviklet en lokal web-applikasjon for kjøp og salg av billetter.
 
 ## Hvordan starte appen
 * * *
